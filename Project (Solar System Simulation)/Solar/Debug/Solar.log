@@ -1,0 +1,77 @@
+﻿  OpenGLProjectTemplate.cpp
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(54,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(153,9): warning C4101: 'j': unreferenced local variable
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(153,6): warning C4101: 'i': unreferenced local variable
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(219,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(217,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(216,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(291,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(294,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(307,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(321,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(322,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(323,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(334,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(335,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(336,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(356,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(357,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(358,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(369,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(370,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(371,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(382,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(383,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(384,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(395,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(396,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(397,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(408,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(409,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(410,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(424,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(425,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(439,53): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(439,39): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(439,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(440,52): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(440,38): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(440,22): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(477,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(478,22): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(479,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(491,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(505,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(506,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(507,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(518,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(519,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(520,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(540,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(541,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(542,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(553,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(554,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(555,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(566,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(567,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(568,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(579,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(580,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(581,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(592,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(593,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(594,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(607,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(608,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(229,9): warning C4101: 'j': unreferenced local variable
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(229,6): warning C4101: 'i': unreferenced local variable
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(647,26): warning C4305: '+=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(649,26): warning C4305: '+=': truncation from 'double' to 'float'
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(701,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(702,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(705,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(706,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(710,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\College\computer32\Graphics\Labs\Project\Solar\OpenGLProjectTemplate.cpp(711,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Solar.vcxproj -> D:\College\computer32\Graphics\Labs\Project\Solar\Debug\Solar.exe

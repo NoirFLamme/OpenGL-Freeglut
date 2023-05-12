@@ -1,0 +1,87 @@
+﻿  OpenGLProjectTemplate.cpp
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(88,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(90,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(93,6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(94,6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(126,20): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(127,20): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(144,21): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(145,21): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(155,20): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(156,20): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(173,21): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(174,21): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(190,73): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(190,55): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(190,37): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(190,19): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(192,79): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(192,61): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(192,43): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\OpenGLProjectTemplate.cpp(192,25): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  Lab 4.vcxproj -> D:\College\computer32\Graphics\Labs\Lab 4\Lab 4\Debug\Lab 4.exe
