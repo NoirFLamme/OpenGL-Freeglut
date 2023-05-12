@@ -1,0 +1,6 @@
+﻿  OpenGLProjectTemplate.cpp
+D:\College\computer32\Graphics\Labs\Lab 0\lab0\OpenGLProjectTemplate.cpp(64,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\College\computer32\Graphics\Labs\Lab 0\lab0\OpenGLProjectTemplate.cpp(64,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\College\computer32\Graphics\Labs\Lab 0\lab0\OpenGLProjectTemplate.cpp(65,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\College\computer32\Graphics\Labs\Lab 0\lab0\OpenGLProjectTemplate.cpp(65,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  lab0.vcxproj -> D:\College\computer32\Graphics\Labs\Lab 0\lab0\Debug\lab0.exe

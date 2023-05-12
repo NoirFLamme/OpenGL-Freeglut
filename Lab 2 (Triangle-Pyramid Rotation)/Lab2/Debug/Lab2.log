@@ -1,0 +1,12 @@
+﻿  OpenGLProjectTemplate.cpp
+D:\College\computer32\Graphics\Labs\Lab 2\Lab2\OpenGLProjectTemplate.cpp(6,50): warning C4091: 'static ': ignored on left of 'choice' when no variable is declared
+D:\College\computer32\Graphics\Labs\Lab 2\Lab2\OpenGLProjectTemplate.cpp(7,122): warning C4091: 'static ': ignored on left of 'userInput' when no variable is declared
+D:\College\computer32\Graphics\Labs\Lab 2\Lab2\OpenGLProjectTemplate.cpp(120,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\College\computer32\Graphics\Labs\Lab 2\Lab2\OpenGLProjectTemplate.cpp(138,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\College\computer32\Graphics\Labs\Lab 2\Lab2\OpenGLProjectTemplate.cpp(157,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\College\computer32\Graphics\Labs\Lab 2\Lab2\OpenGLProjectTemplate.cpp(168,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\College\computer32\Graphics\Labs\Lab 2\Lab2\OpenGLProjectTemplate.cpp(288,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\College\computer32\Graphics\Labs\Lab 2\Lab2\OpenGLProjectTemplate.cpp(288,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\College\computer32\Graphics\Labs\Lab 2\Lab2\OpenGLProjectTemplate.cpp(289,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\College\computer32\Graphics\Labs\Lab 2\Lab2\OpenGLProjectTemplate.cpp(289,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Lab2.vcxproj -> D:\College\computer32\Graphics\Labs\Lab 2\Lab2\Debug\Lab2.exe

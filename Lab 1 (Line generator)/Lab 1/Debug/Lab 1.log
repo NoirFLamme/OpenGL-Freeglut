@@ -1,0 +1,5 @@
+﻿  OpenGLProjectTemplate.cpp
+D:\College\computer32\Graphics\Labs\Lab 1\Lab 1\OpenGLProjectTemplate.cpp(73,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\College\computer32\Graphics\Labs\Lab 1\Lab 1\OpenGLProjectTemplate.cpp(74,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\College\computer32\Graphics\Labs\Lab 1\Lab 1\OpenGLProjectTemplate.cpp(75,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Lab 1.vcxproj -> D:\College\computer32\Graphics\Labs\Lab 1\Lab 1\Debug\Lab 1.exe
